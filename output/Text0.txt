@@ -6,18 +6,18 @@ Target : The next item is the debate on topical and urgent subjects of major imp
 Predic : The President interrupted the speaker
 Target : The President interrupted the speaker
 0 - 39
-Predic : This proposal contains two parts of first relates to the procedure for accessing VAT to non owned by child the first few of harmonisation of the rules governing ruminants
+Predic : This important opportunity two parts of first relates to the procedure for The Third the non comparison of persons the second relates to harmonisation of the rules governing blending
 Target : This proposal contains two parts the first relates to the procedure for refunding VAT to non resident taxable persons the second relates to harmonisation of the rules governing deduction
-Predic : He you are not answered as possible greater innovation will be punished and a lesser worse
+Predic : He would like to abstain for a greater action on the pretext for a violent manner
 Target : He who is not punished for a greater crime will be punished for a lesser crime
 Predic : The joint debate is closed
 Target : The joint debate is closed
 0 - 77
-Predic : The European Parliament is committed to bringing the European Union to the USA Summit in a very high level of the European Union
+Predic : Mr President firstly I would be pleased to invite the Commissioner to dwell on the problem a two where seven different types of traffic are reply
 Target : Mr President firstly I would be pleased to invite the Commissioner to Kloster Andechs in Bavaria a place where seven different types of beer are brewed
-Predic : Madam President I would like to thank the President for his work
+Predic : Parliament approved the legislative resolution EXPLANATIONS OF VOTE
 Target : Parliament approved the legislative resolution EXPLANATIONS OF VOTE
-Predic : Parliament adopted the legislative resolution
+Predic : Parliament approved the legislative resolution
 Target : Parliament approved the legislative resolution
 9 - 0
 Predic : Having said that I would like to thank Mr Dell Alba once again for an excellent report which I am certain will be passed by a large majority today
@@ -27,14 +27,14 @@ Target : The next item is the debate on topical and urgent subjects of major imp
 Predic : The President interrupted the speaker
 Target : The President interrupted the speaker
 9 - 39
-Predic : This proposal contains two parts of first relates to the procedure for narrowing VAT to non resident motions persons the second relates to harmonisation of the rules governing auditors
+Predic : This proposal contains two parts of first relates to the procedure for narrowing VAT to non guidance ranging Will the second relates to harmonisation of the rules governing nationhood
 Target : This proposal contains two parts the first relates to the procedure for refunding VAT to non resident taxable persons the second relates to harmonisation of the rules governing deduction
 Predic : He who is not punished for a greater crime will be punished for a lesser crime
 Target : He who is not punished for a greater crime will be punished for a lesser crime
 Predic : The joint debate is closed
 Target : The joint debate is closed
 9 - 77
-Predic : Mr President firstly I would be pleased to invite the Commissioner to party Ludford in Khanty a place where seven different types of beer are attributable
+Predic : Mr President firstly I would be pleased to invite the Commissioner to party re in situations a place where seven different types of beer are delegation
 Target : Mr President firstly I would be pleased to invite the Commissioner to Kloster Andechs in Bavaria a place where seven different types of beer are brewed
 Predic : Parliament approved the legislative resolution EXPLANATIONS OF VOTE
 Target : Parliament approved the legislative resolution EXPLANATIONS OF VOTE
@@ -48,14 +48,14 @@ Target : The next item is the debate on topical and urgent subjects of major imp
 Predic : The President interrupted the speaker
 Target : The President interrupted the speaker
 18 - 39
-Predic : This proposal contains two parts of first relates to the procedure for Euronews VAT to non resident motions persons the second relates to harmonisation of the rules governing proceed
+Predic : This proposal contains two parts of first relates to the procedure for narrowing VAT to non resident register persons the second relates to harmonisation of the rules governing blending
 Target : This proposal contains two parts the first relates to the procedure for refunding VAT to non resident taxable persons the second relates to harmonisation of the rules governing deduction
 Predic : He who is not punished for a greater crime will be punished for a lesser crime
 Target : He who is not punished for a greater crime will be punished for a lesser crime
 Predic : The joint debate is closed
 Target : The joint debate is closed
 18 - 77
-Predic : Mr President firstly I would be pleased to invite the Commissioner to party re in Rio a place where seven different types of beer are attributable
+Predic : Mr President firstly I would be pleased to invite the Commissioner to party re in situations a place where seven different types of beer are delegation
 Target : Mr President firstly I would be pleased to invite the Commissioner to Kloster Andechs in Bavaria a place where seven different types of beer are brewed
 Predic : Parliament approved the legislative resolution EXPLANATIONS OF VOTE
 Target : Parliament approved the legislative resolution EXPLANATIONS OF VOTE

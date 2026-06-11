@@ -6,18 +6,18 @@ Target : The next item is the debate on topical and urgent subjects of major imp
 Predic : The President interrupted the speaker
 Target : The President interrupted the speaker
 0 - 39
-Predic : This is why we have to support the report on the basis of the principle of the directive
+Predic : This proposal contains two parts of first relates to the procedure for narrowing innovation to non imperialism and persons the second relates to harmonisation of the rules governing interlocutors
 Target : This proposal contains two parts the first relates to the procedure for refunding VAT to non resident taxable persons the second relates to harmonisation of the rules governing deduction
-Predic : Mr President I am sure that we will not get to the debate on the matter
+Predic : He who is not punished for a greater crime will be punished for a lesser level
 Target : He who is not punished for a greater crime will be punished for a lesser crime
-Predic : The following questions are addressed to the Commission
+Predic : The joint debate is closed
 Target : The joint debate is closed
 0 - 77
-Predic : Mr President firstly I would be pleased to invite the Commissioner to party Ludford in Havana a place where seven different types of mines are attributable
+Predic : Mr President firstly I would like to thank Mrs Geringer de Oedenberg for their personal importance on formal places seven different types of phthalates are falsified
 Target : Mr President firstly I would be pleased to invite the Commissioner to Kloster Andechs in Bavaria a place where seven different types of beer are brewed
 Predic : Parliament approved the legislative resolution EXPLANATIONS OF VOTE
 Target : Parliament approved the legislative resolution EXPLANATIONS OF VOTE
-Predic : Parliament approved the legislative resolution
+Predic : Parliament approved the Commission s legislative resolution
 Target : Parliament approved the legislative resolution
 9 - 0
 Predic : Having said that I would like to thank Mr Dell Alba once again for an excellent report which I am certain will be passed by a large majority today
@@ -27,18 +27,18 @@ Target : The next item is the debate on topical and urgent subjects of major imp
 Predic : The President interrupted the speaker
 Target : The President interrupted the speaker
 9 - 39
-Predic : This proposal contains two parts of first relates to the procedure for narrowing VAT to non resident motions persons the second relates to harmonisation of the rules governing blending
+Predic : This proposal contains two parts of first relates to the procedure for narrowing VAT to non resident register persons the second relates to harmonisation of the rules governing blending
 Target : This proposal contains two parts the first relates to the procedure for refunding VAT to non resident taxable persons the second relates to harmonisation of the rules governing deduction
 Predic : He who is not punished for a greater crime will be punished for a lesser crime
 Target : He who is not punished for a greater crime will be punished for a lesser crime
 Predic : The joint debate is closed
 Target : The joint debate is closed
 9 - 77
-Predic : I would like to thank the rapporteur for his excellent work and I hope that the Commission will be able to take the floor
+Predic : Mr President firstly I would be pleased to invite the Commissioner to party Communication in Statistics a place where seven different types of alcoholic are grams
 Target : Mr President firstly I would be pleased to invite the Commissioner to Kloster Andechs in Bavaria a place where seven different types of beer are brewed
-Predic : The next item is the joint debate on the following motions for resolutions
+Predic : Parliament approved the legislative resolution EXPLANATIONS OF VOTE
 Target : Parliament approved the legislative resolution EXPLANATIONS OF VOTE
-Predic : Mr President ladies and gentlemen I would like to thank Mr Trakatellis for his excellent work
+Predic : Parliament approved the legislative resolution
 Target : Parliament approved the legislative resolution
 18 - 0
 Predic : Having said that I would like to thank Mr Dell Alba once again for an excellent report which I am certain will be passed by a large majority today
@@ -48,14 +48,14 @@ Target : The next item is the debate on topical and urgent subjects of major imp
 Predic : The President interrupted the speaker
 Target : The President interrupted the speaker
 18 - 39
-Predic : This proposal contains two parts of first relates to the procedure for narrowing VAT to non resident motions persons the second relates to harmonisation of the rules governing blending
+Predic : This proposal contains two parts of first relates to the procedure for narrowing VAT to non resident register persons the second relates to harmonisation of the rules governing blending
 Target : This proposal contains two parts the first relates to the procedure for refunding VAT to non resident taxable persons the second relates to harmonisation of the rules governing deduction
 Predic : He who is not punished for a greater crime will be punished for a lesser crime
 Target : He who is not punished for a greater crime will be punished for a lesser crime
 Predic : The joint debate is closed
 Target : The joint debate is closed
 18 - 77
-Predic : Mr President firstly I would be pleased to invite the Commissioner to party Ludford in Khanty Mansiysk place where seven different types of beer are attributable
+Predic : Mr President firstly I would be pleased to invite the Commissioner to party re in situations a place where seven different types of beer are delegation
 Target : Mr President firstly I would be pleased to invite the Commissioner to Kloster Andechs in Bavaria a place where seven different types of beer are brewed
 Predic : Parliament approved the legislative resolution EXPLANATIONS OF VOTE
 Target : Parliament approved the legislative resolution EXPLANATIONS OF VOTE

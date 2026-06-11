@@ -738,7 +738,7 @@ def greedy_decode(model, src, fading_noise, pad, start_symbol, channel):
     return outputs[:,1:]
 
 
-def performance(args, SNR, model, test_iter, chl):
+def performance(args, SNR, model, test_iter, chl, vocab):
 
     cos_model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2').to(device)
     bleu_score_1gram = BleuScore(1,0,0,0)
@@ -961,7 +961,7 @@ def main(Config):
     
     os.environ["TOKENIZERS_PARALLELISM"] = "false"           
     model.load_state_dict(torch.load(os.path.join(args.checkpoint_path, args.checkpoint_name), weights_only=True)) 
-    bleu_score ,similar_score = performance(args, Config.snr_noise_list, model, test_data, args.channel)
+    bleu_score ,similar_score = performance(args, Config.snr_noise_list, model, test_data, args.channel, vocab)
     print(f'bleu_score',' '.join(['{:.4f}'.format(x) for x in bleu_score]))
     print(f'simi_score',' '.join(['{:.4f}'.format(x) for x in similar_score]))   
     
