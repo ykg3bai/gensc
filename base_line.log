@@ -1,0 +1,73 @@
+trian max lenght : 31 test max lenght : 31
+Vab sizes :  38405 - True
+BOS token :  0 - True
+PAD token :  1 - True
+EOS token :  2 - True
+MSK token :  4 - True
+Fading Channel :  Rayleigh
+Use pre-train model with Rayleigh fading channel with parameters 11426832
+Epoch 2 - 0 times ( Model saving ... ) 
+Valida loss : 0.6761 0.3746 0.3298 0.2868 0.1840 0.1298 0.1356
+Saving loss : 0.6761 0.3746 0.3298 0.2868 0.1840 0.1298 0.1356
+Epoch 3 - 0 times ( Model saving ... ) 
+Valida loss : 0.6920 0.4128 0.2732 0.2233 0.1790 0.1397 0.1336
+Saving loss : 0.6920 0.4128 0.2732 0.2233 0.1790 0.1397 0.1336
+Epoch 4 - 0 times ( Model saving ... ) 
+Valida loss : 0.6491 0.4823 0.2331 0.2352 0.1483 0.1383 0.1330
+Saving loss : 0.6491 0.4823 0.2331 0.2352 0.1483 0.1383 0.1330
+Epoch 5 - 1 times
+Valida loss : 0.7112 0.5878 0.3304 0.2222 0.1729 0.1457 0.1328
+Saving loss : 0.6491 0.4823 0.2331 0.2352 0.1483 0.1383 0.1330
+Epoch 6 - 2 times
+Valida loss : 0.7057 0.5732 0.2911 0.1692 0.1732 0.1381 0.1311
+Saving loss : 0.6491 0.4823 0.2331 0.2352 0.1483 0.1383 0.1330
+Epoch 7 - 3 times
+Valida loss : 0.5297 0.5184 0.2776 0.2190 0.1586 0.1455 0.1392
+Saving loss : 0.6491 0.4823 0.2331 0.2352 0.1483 0.1383 0.1330
+Epoch 8 - 4 times
+Valida loss : 0.5053 0.5098 0.4623 0.3393 0.1843 0.1309 0.1297
+Saving loss : 0.6491 0.4823 0.2331 0.2352 0.1483 0.1383 0.1330
+Epoch 9 - 5 times
+Valida loss : 0.6028 0.5352 0.3315 0.2223 0.1820 0.1305 0.1603
+Saving loss : 0.6491 0.4823 0.2331 0.2352 0.1483 0.1383 0.1330
+Epoch 10 - 6 times
+Valida loss : 0.6960 0.4661 0.2922 0.2926 0.2194 0.1429 0.1342
+Saving loss : 0.6491 0.4823 0.2331 0.2352 0.1483 0.1383 0.1330
+Epoch 11 - 7 times
+Valida loss : 0.7004 0.4363 0.3628 0.2341 0.2112 0.1276 0.1316
+Saving loss : 0.6491 0.4823 0.2331 0.2352 0.1483 0.1383 0.1330
+Epoch 12 - 8 times
+Valida loss : 0.7083 0.5460 0.2790 0.2375 0.1904 0.1514 0.1532
+Saving loss : 0.6491 0.4823 0.2331 0.2352 0.1483 0.1383 0.1330
+Epoch 13 - 9 times
+Valida loss : 0.5899 0.4310 0.2531 0.2210 0.1659 0.1559 0.1501
+Saving loss : 0.6491 0.4823 0.2331 0.2352 0.1483 0.1383 0.1330
+Epoch 14 - 10 times
+Valida loss : 0.6644 0.4529 0.3106 0.1982 0.1353 0.1434 0.1565
+Saving loss : 0.6491 0.4823 0.2331 0.2352 0.1483 0.1383 0.1330
+Epoch 15 - 11 times
+Valida loss : 0.4943 0.2798 0.2823 0.2072 0.2338 0.1606 0.1351
+Saving loss : 0.6491 0.4823 0.2331 0.2352 0.1483 0.1383 0.1330
+Epoch 16 - 12 times
+Valida loss : 0.6532 0.4742 0.3055 0.3154 0.1321 0.1725 0.1641
+Saving loss : 0.6491 0.4823 0.2331 0.2352 0.1483 0.1383 0.1330
+Epoch 17 - 13 times
+Valida loss : 0.6450 0.3540 0.2880 0.2249 0.1346 0.2081 0.1336
+Saving loss : 0.6491 0.4823 0.2331 0.2352 0.1483 0.1383 0.1330
+Epoch 18 - 14 times
+Valida loss : 0.7941 0.4488 0.2968 0.1712 0.1713 0.1432 0.1425
+Saving loss : 0.6491 0.4823 0.2331 0.2352 0.1483 0.1383 0.1330
+Epoch 19 - 15 times
+Valida loss : 0.6727 0.4419 0.2724 0.1712 0.1955 0.1700 0.1461
+Saving loss : 0.6491 0.4823 0.2331 0.2352 0.1483 0.1383 0.1330
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|██████████| 103/103 [00:00<00:00, 5311.20it/s]
+Traceback (most recent call last):
+  File "/root/tmp/gensc/./GenSC_finall_all.py", line 997, in <module>
+    main(Config)
+  File "/root/tmp/gensc/./GenSC_finall_all.py", line 964, in main
+    bleu_score ,similar_score = performance(args, Config.snr_noise_list, model, test_data, args.channel)
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/root/tmp/gensc/./GenSC_finall_all.py", line 746, in performance
+    StoT = SeqtoText(vocab, Config.eos_token_id)
+                     ^^^^^
+NameError: name 'vocab' is not defined
